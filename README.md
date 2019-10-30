@@ -1,2 +1,3 @@
 # akhil_KMEA
-a basic calculator code with python
+A basic calculator code with python.
+This can be used in windows.
